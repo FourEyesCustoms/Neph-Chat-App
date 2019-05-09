@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Neph Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_pass">Enter Password</string>
+    <string name="user_email">Enter Email</string>
+    <string name="user_name">Enter User name</string>
+    <string name="welcome_text">Experience greatness where everyone connects</string>
+    <string name="add_user">Add User</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="login_using">Login Using your</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="menu_find_friends">Find friends</string>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="menu_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="set_user_name">User Name</string>
+    <string name="user_status">User status</string>
+    <string name="set_up_account">Set Up Account</string>
+    <string name="create_new_group">Create new Group</string>
+    <string name="write_your_message_here">Write your message here</string>
+    <string name="mobile_phone_example">eg. +254741...</string>
+    <string name="verify_phone_number">Verify Phone Number</string>
+    <string name="send_verification_code">Send Verification Code</string>
+    <string name="display_user_name">User Name</string>
+</resources>

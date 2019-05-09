@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742179769469",
+    "firebase_url": "https://nephat-chat-app.firebaseio.com",
+    "project_id": "nephat-chat-app",
+    "storage_bucket": "nephat-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742179769469:android:1a488a1efb38f3f0",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742179769469-csjpmm9746rosh7bban6ssrvidcrlie4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp",
+            "certificate_hash": "046145add2178d9f2cf6aa586c73fe561c2e2ad2"
+          }
+        },
+        {
+          "client_id": "742179769469-kamq7f5trajmsfgsmof643sekt07anvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzUAq6FU2KXajNP8sDWSWdqXfpMY94cx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742179769469-kamq7f5trajmsfgsmof643sekt07anvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
